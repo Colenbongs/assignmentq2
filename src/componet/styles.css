@@ -1,0 +1,31 @@
+
+
+.body{
+    width: 50%;
+    margin:auto;
+    
+}
+
+.buttons {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+
+.btn {
+    margin:5px
+}
+
+.card {
+    box-shadow: 1px 2px 3px;
+    border-radius: 10px;
+    padding: 20px;
+    margin-top: 20px;
+}
+
+.info {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin:10px
+}
